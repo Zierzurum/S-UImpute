@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "S-UImpute: Stacking-based Imputation for Air Quality Forecasting"
+version: "0.1.0"
+doi: "TODO: add DOI here if available"
+authors:
+  - family-names: "Zierzurum"
+    given-names: "YourGivenName"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # eğer ORCID varsa
+date-released: "2025-09-26"
+repository-code: "https://github.com/Zierzurum/S-UImpute"
+license: "MIT"  # veya projenin lisansına uygun lisans
+abstract: |
+  S-UImpute is a stacking-based imputation method designed to preserve
+  temporal structure in air pollutant time series data and improve forecasting
+  performance under missing data scenarios.
+keywords:
+  - imputation
+  - stacking
+  - air quality
+  - time series
+license:
+  name: "MIT License"
