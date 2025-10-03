@@ -11,8 +11,8 @@ authors:
 repository-code: "https://github.com/Zierzurum/S-UImpute"
 date-released: 2025-09-26
 version: "1.0.0"
-doi: ""
-url: "https://github.com/Zierzurum/S-UImpute"
+doi: "10.5281/zenodo.17259996"
+url: "https://zenodo.org/records/17259996"
 license: "CC-BY-4.0"
 type: dataset
 preferred-citation:
