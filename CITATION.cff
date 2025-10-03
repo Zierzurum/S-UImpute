@@ -1,23 +1,28 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-title: "S-UImpute: Stacking-based Imputation for Air Quality Forecasting"
-version: "0.1.0"
-doi: "TODO: add DOI here if available"
+message: "If you use this code, please cite it as below."
+title: "S-UImpute"
 authors:
-  - family-names: "Zierzurum"
-    given-names: "YourGivenName"
-    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # eğer ORCID varsa
-date-released: "2025-09-26"
+  - family-names: "Erzurum Cicek"
+    given-names: "Zeynep Idil"
+    affiliation: "Eskişehir Technical University"
+  - family-names: "Ergul Aydin"
+    given-names: "Zeliha"
+    affiliation: "Eskişehir Technical University"
 repository-code: "https://github.com/Zierzurum/S-UImpute"
-license: "MIT"  # veya projenin lisansına uygun lisans
-abstract: |
-  S-UImpute is a stacking-based imputation method designed to preserve
-  temporal structure in air pollutant time series data and improve forecasting
-  performance under missing data scenarios.
-keywords:
-  - imputation
-  - stacking
-  - air quality
-  - time series
-license:
-  name: "MIT License"
+date-released: 2025-09-26
+version: "1.0.0"
+doi: ""
+url: "https://github.com/Zierzurum/S-UImpute"
+license: "CC-BY-4.0"
+type: dataset
+preferred-citation:
+  type: article
+  title: "Enhancing Air Quality Forecasting through Missing Data Imputation: A Stacking-Based Approach Applied to Urban Monitoring Data"
+  authors:
+    - family-names: "Erzurum Cicek"
+      given-names: "Zeynep Idil"
+    - family-names: "Ergul Aydin"
+      given-names: "Zeliha"
+  year: 2025
+  status: "submitted"
+  journal: ""
